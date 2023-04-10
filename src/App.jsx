@@ -1,12 +1,5 @@
-
-
 function App() {
-
-  return (
-    <h2 className="font-bold">
-      App works
-    </h2>
-  )
+  return <h2 className="font-bold">it works</h2>;
 }
 
-export default App
+export default App;
